@@ -1,21 +1,23 @@
 ---
 layout: post
 title:  "Professori Rehnin opintotukipopulismi"
+author: "Jari Kuikanmäki"
+description: "Demagogi, kuten H.L. Mencken sanoi, on henkilö joka julistaa doktriineja joiden tietää olevan epätosia, ihmisille joiden tietää olevan idiootteja. Mutta sitten on vielä yliopistoprofessorit."
+image: "/img/opintotuki.jpg"
 date:   2016-10-06 16:31
-categories: helsinki, finland
 location: Helsinki, Finland
 tags: yhteiskunta politiikka
 ---
 
 <div class="post-image">
-  <img src="http://placehold.it/885x500" />
+<img src="{{ "/img/opintotuki.jpg" | prepend: site.baseurl }}">
 </div>
 
 Demagogi, kuten <b>H.L. Mencken</b> sanoi, on henkilö joka julistaa doktriineja joiden tietää olevan epätosia, ihmisille joiden tietää olevan idiootteja. Mutta sitten on vielä yliopistoprofessorit.
 
-Åbo Akademin professori Alf Rehn nousi viikonloppuna somekansan folk-sankariksi haukuttuaan värikkäästi hallituksen opintotukileikkauksia. Rehn kirjoittaa mm.: "Jos yhteiskunnassa on kaksi ryhmää jotka aidosti tuottavat pitkäjänteistä arvoa, se lienee ne jotka opiskelee ja ne jotka väsäävät tulevia veronmaksajia”. Tämän lisäksi professori Rehn käyttää päivityksessään voimasanoja ja haukkuu hallituksen, mutta koska Libera on perhejulkaisu, en siteeraa professoria kokonaisuudessaan, vaan keskityn hänen argumenttinsa logiikkaan ja sen seurauksiin.
+Åbo Akademin professori <b>Alf Rehn</b> nousi viikonloppuna somekansan folk-sankariksi haukuttuaan värikkäästi hallituksen opintotukileikkauksia. Rehn kirjoittaa mm.: "Jos yhteiskunnassa on kaksi ryhmää jotka aidosti tuottavat pitkäjänteistä arvoa, se lienee ne jotka opiskelee ja ne jotka väsäävät tulevia veronmaksajia”. Tämän lisäksi professori Rehn käyttää päivityksessään voimasanoja ja haukkuu hallituksen, mutta koska tämä on perhejulkaisu, en siteeraa professoria kokonaisuudessaan, vaan keskityn hänen argumenttinsa logiikkaan ja sen seurauksiin.
 
-Niille jotka haluavat taloustieteellisen analyysin siitä miksi Rehnin argumentit ja johtopäätökset eivät toimi, suosittelen lukemaan esimerkiksi Heikki Pursiaisen kirjoituksen “Professorin liian helpot 14000 tykkäystä”. Mutta tarkastelen nyt, mihin politiikassa Rehnin logiikalla yleisemmin ottaen päädytään.
+Niille jotka haluavat taloustieteellisen analyysin siitä miksi Rehnin argumentit ja johtopäätökset eivät toimi, suosittelen lukemaan myös <b>Heikki Pursiaisen</b> kirjoituksen <a href="http://blogit.image.fi/asiatonlehdistokatsaus/professorin-liian-helpot-14-000-tykkaysta/" target="_blank">“Professorin liian helpot 14000 tykkäystä”</a>. Mutta tarkastelen nyt, mihin politiikassa Rehnin logiikalla yleisemmin ottaen päädytään.
 
 <h4>Valtio ja pitkäjänteinen arvonluonti</h4>
 

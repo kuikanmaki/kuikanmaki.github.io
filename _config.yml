@@ -1,13 +1,12 @@
 # Site settings
-title: kuikanmäki
+title: Jari Kuikanmäki
 subtitle: "Kirjoituksia"
 email: jari.kuikanmaki@gmail.com
-description: "Seuraa Twitterissä"
+description: "Blogi"
 baseurl: ""
 url: "https://kuikanmaki.github.io"
-twitter_username: "jarikuikanmaki"
-github_username:  "kuikanmaki"
-instagram_username: "jkuikanmaki"
+twitter:
+  username: jarikuikanmaki
 
 # Build settings
 markdown: kramdown
@@ -21,4 +20,9 @@ sass:
     style: :compressed
 
 # Gems
-gems: [jekyll-paginate]
+gems:
+    - jekyll-paginate
+    - jekyll-seo-tag
+
+# Google services
+google_analytics: UA-61093128-1
