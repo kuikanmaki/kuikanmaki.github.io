@@ -26,3 +26,6 @@ gems:
 
 # Google services
 google_analytics: UA-61093128-1
+
+#Facebook Sharing
+facebook_app_id: 1798370233778304

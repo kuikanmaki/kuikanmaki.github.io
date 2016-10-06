@@ -5,7 +5,8 @@
     </div>
     <div class="post-body">
         {{ include.content }}
-    </div>
+        {% include share.html %}
+    </div>    
     <div class="post-footer">
         <ul class="post-footer-tags">
             {% for tag in include.post.tags %}
