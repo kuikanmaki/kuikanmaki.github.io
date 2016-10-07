@@ -3,21 +3,21 @@ layout: post
 title:  "Professori Rehnin opintotukipopulismi"
 author: "Jari Kuikanmäki"
 description: "Demagogi, kuten H.L. Mencken sanoi, on henkilö joka julistaa doktriineja joiden tietää olevan epätosia, ihmisille joiden tietää olevan idiootteja. Mutta sitten on vielä yliopistoprofessorit."
-image: "/img/opintotuki.jpg"
-date:   2016-10-07 9:52
+image: "/img/unihelsinki.jpg"
+date:   2016-10-07 10:55
 location: Helsinki, Finland
 tags: yhteiskunta politiikka
 ---
 
 <div class="post-image">
-<img src="{{ "/img/opintotuki.jpg" | prepend: site.baseurl }}">
+<img src="{{ "/img/unihelsinki.jpg" | prepend: site.baseurl }}">
 </div>
 
 Demagogi, kuten <b>H.L. Mencken</b> sanoi, on henkilö joka julistaa doktriineja joiden tietää olevan epätosia, ihmisille joiden tietää olevan idiootteja. Mutta sitten on vielä yliopistoprofessorit.
 
 Åbo Akademin professori <b>Alf Rehn</b> nousi viikonloppuna somekansan folk-sankariksi haukuttuaan värikkäästi hallituksen opintotukileikkauksia. <a href="https://www.facebook.com/alfrehn/posts/10154695821241337?__mref=message_bubble" target="_blank">Facebook-päivityksessään</a> Rehn kirjoittaa mm.: <i>"Jos yhteiskunnassa on kaksi ryhmää jotka aidosti tuottavat pitkäjänteistä arvoa, se lienee ne jotka opiskelee ja ne jotka väsäävät tulevia veronmaksajia”.</i> Tämän lisäksi professori Rehn käyttää päivityksessään voimasanoja ja haukkuu hallituksen, mutta koska tämä on perhejulkaisu, en siteeraa professoria kokonaisuudessaan, vaan keskityn hänen argumenttinsa logiikkaan ja sen seurauksiin.
 
-Niille jotka haluavat taloustieteellisen analyysin siitä miksi Rehnin argumentit ja johtopäätökset eivät toimi, suosittelen lukemaan myös <b>Heikki Pursiaisen</b> kirjoituksen <a href="http://blogit.image.fi/asiatonlehdistokatsaus/professorin-liian-helpot-14-000-tykkaysta/" target="_blank">“Professorin liian helpot 14000 tykkäystä”</a>. Mutta tarkastelen nyt, mihin politiikassa Rehnin logiikalla yleisemmin ottaen päädytään.
+Niille jotka haluavat taloustieteellisen analyysin siitä miksi Rehnin argumentit ja johtopäätökset eivät toimi, suosittelen lukemaan myös <b>Heikki Pursiaisen</b> vastineen <a href="http://blogit.image.fi/asiatonlehdistokatsaus/professorin-liian-helpot-14-000-tykkaysta/" target="_blank">“Professorin liian helpot 14000 tykkäystä”</a>. Mutta tarkastelen nyt, mihin politiikassa Rehnin logiikalla yleisemmin ottaen päädytään.
 
 <h4>Valtio ja pitkäjänteinen arvonluonti</h4>
 
@@ -37,6 +37,6 @@ Professori Rehn ei kuitenkaan osoita mitään näyttöä sille, että opintotuki
 
 <hr>
 
-Rehn päättää päivityskombonsa: "Ainoa syy olla professori, historiallisesti ja tänään, on se että saa sanoa vapaasti ihan mitä helvettiä vain haluaa, koska ei ole olemassa ketään – ei poliitikkoa, ei toimaria, ei virkamiestä, ei tuomaria, ei ketään – jolla on valtaa sanoa että ei saa sanoa."
+Rehn päättää päivityskombonsa: <i>"Ainoa syy olla professori, historiallisesti ja tänään, on se että saa sanoa vapaasti ihan mitä helvettiä vain haluaa, koska ei ole olemassa ketään – ei poliitikkoa, ei toimaria, ei virkamiestä, ei tuomaria, ei ketään – jolla on valtaa sanoa että ei saa sanoa."</i>
 
 Sananvapaudesta kiinnostuneille suosittelen kuitenkin mieluummin esimerkiksi taksikuskin kuin akateemikon uraa: koulutus on nopeampi ja sananvapaus paljon laajempi kuin yliopistoympyröissä, joissa tyypillisesti kerrallaan hyväksytään vain yhdenlaista totuutta.
