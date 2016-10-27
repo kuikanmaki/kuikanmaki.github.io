@@ -37,18 +37,18 @@ Mutta miten tässä näin kävi? Missä mentiin pieleen? Lyhyesti sanottuna 1960
 <blockquote>People try to put us d-down (Talkin' 'bout my generation)<br>
 Just because we get around (Talkin' 'bout my generation)<br> 
 Things they do look awful c-c-cold (Talkin' 'bout my generation)<br> 
-I hope I die before I get old (Talkin' 'bout my generation) 
+I hope I die before I get old (Talkin' 'bout my generation)<br><br> 
 
 This is my generation<br> 
-This is my generation, baby 
+This is my generation, baby<br><br> 
 
 Why don't you all f-fade away (Talkin' 'bout my generation)<br>
 And don't try to dig what we all s-s-say (Talkin' 'bout my generation)<br>
 I'm not trying to cause a big s-s-sensation (Talkin' 'bout my generation)<br>
-I'm just talkin' 'bout my g-g-g-generation (Talkin' 'bout my generation) 
+I'm just talkin' 'bout my g-g-g-generation (Talkin' 'bout my generation)<br><br> 
 
 This is my generation<br> 
-This is my generation, baby
+This is my generation, baby<br><br>
 
 - The Who, My Generation</blockquote>
 
