@@ -4,14 +4,13 @@ title:  "Kaikki coolit lapset ovat nyt oikeistossa"
 author: "Jari Kuikanmäki"
 description: "Vasemmiston pahin painajainen on käymässä toteen ympäri maailman. Ei, en puhu globaalin kapitalismin voitosta tai siitä että joku rikas henkilö, jossakin, on onnellinen - vaan siitä, että he eivät ole enää cool."
 image: "/img/farage.jpg"
-date:   2016-10-27 12:45
+date:   2016-10-27 13:00
 location: Helsinki, Finland
 tags: yhteiskunta politiikka kulttuuri
 ---
 
 <div class="post-image">
-<img src="{{ "/img/farage.jpg" | prepend: site.baseurl }}">
-<em>UKIP:n johtaja Nigel Farage juomassa IPA-olutta. Huomatkaa Faragen viileä olemus. Farage on cool.</em>
+<img src="{{ "/img/farage.jpg" | prepend: site.baseurl }}" description="UKIP:n johtaja Nigel Farage juomassa IPA-olutta. Huomatkaa Faragen viileä olemus. Farage on cool.">
 </div>
 
 Vasemmiston pahin painajainen on käymässä toteen ympäri maailman. Ei, en puhu globaalin kapitalismin voitosta tai siitä että joku rikas henkilö, jossakin, on onnellinen - vaan siitä, että he eivät ole enää cool.
@@ -22,11 +21,12 @@ Tässä on varmasti paljon sulateltavaa.
 
 Mitä tarkoitan kun sanon cool?  
 
-<blockquote><b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
+<blockquote>"<b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.<br><br>
 
-Cool was once an attitude fostered by rebels and underdogs, such as slaves, prisoners, bikers and political dissidents, etc., for whom open rebellion invited punishment, so it hid defiance behind a wall of ironic detachment, distancing itself from the source of authority rather than directly confronting it."
+Cool was once an attitude fostered by rebels and underdogs, such as slaves, prisoners, bikers and political dissidents, etc., for whom open rebellion invited punishment, so it hid defiance behind a wall of ironic detachment, distancing itself from the source of authority rather than directly confronting it."<br><br>
 
-https://en.wikipedia.org/wiki/Cool_(aesthetic)</blockquote>
+<a href="http://en.wikipedia.org/wiki/Cool_(aesthetic)" target="_blank">Cool (aesthetic) - Wikipedia</a>
+</blockquote>
 
 Voisin tietenkin keskustella myös politiikan substanssista, mutta jos nyt rehellisiä ollaan, niin asiakysymykset ovat tosi tylsiä. Ketä ne nyt kiinnostaa? Ei ketään. Joten keskustellaan tyylistä.
 
