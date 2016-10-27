@@ -22,7 +22,7 @@ Tässä on varmasti paljon sulateltavaa.
 
 Mitä tarkoitan kun sanon cool?  
 
-<span style="margin-left:5px;"><b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
+<span class="indented"><b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
 
 Cool was once an attitude fostered by rebels and underdogs, such as slaves, prisoners, bikers and political dissidents, etc., for whom open rebellion invited punishment, so it hid defiance behind a wall of ironic detachment, distancing itself from the source of authority rather than directly confronting it."
 
@@ -34,7 +34,7 @@ Siinä missä vasemmistolaisen pitää nykyään rikkoa näyteikkuna herättää
 
 Mutta miten tässä näin kävi? Missä mentiin pieleen? Lyhyesti sanottuna 1960-luvun vasemmisto ja Woodstock-väki voittivat. Kulttuuri on kuitenkin siitä mielenkiintoista, että se on jatkuvasti kykenevä adaptaatioon.
 
-<span style="margin-left:5px;">People try to put us d-down (Talkin' 'bout my generation)<br>
+<span class="indented">People try to put us d-down (Talkin' 'bout my generation)<br>
 Just because we get around (Talkin' 'bout my generation)<br> 
 Things they do look awful c-c-cold (Talkin' 'bout my generation)<br> 
 I hope I die before I get old (Talkin' 'bout my generation) 
