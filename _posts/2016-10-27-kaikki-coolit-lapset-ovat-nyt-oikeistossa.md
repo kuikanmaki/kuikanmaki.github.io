@@ -12,7 +12,9 @@ tags: yhteiskunta politiikka kulttuuri
 <div class="post-image">
 <img src="{{ "/img/farage.jpg" | prepend: site.baseurl }}">
 </div>
-<p><em>UKIP:n johtaja Nigel Farage juomassa IPA-olutta. Huomatkaa Faragen viileä olemus. Farage on cool.</em></p>
+<em>UKIP:n johtaja Nigel Farage juomassa IPA-olutta. Huomatkaa Faragen viileä olemus. Farage on cool.</em>
+
+-
 
 Vasemmiston pahin painajainen on käymässä toteen ympäri maailman. Ei, en puhu globaalin kapitalismin voitosta tai siitä että joku rikas henkilö, jossakin, on onnellinen - vaan siitä, että he eivät ole enää cool.
 
