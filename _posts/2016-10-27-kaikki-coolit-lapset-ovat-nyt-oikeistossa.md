@@ -22,11 +22,11 @@ Tässä on varmasti paljon sulateltavaa.
 
 Mitä tarkoitan kun sanon cool?  
 
-<span class="indented"><b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
+<blockquote><b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
 
 Cool was once an attitude fostered by rebels and underdogs, such as slaves, prisoners, bikers and political dissidents, etc., for whom open rebellion invited punishment, so it hid defiance behind a wall of ironic detachment, distancing itself from the source of authority rather than directly confronting it."
 
-https://en.wikipedia.org/wiki/Cool_(aesthetic)</span>
+https://en.wikipedia.org/wiki/Cool_(aesthetic)</blockquote>
 
 Voisin tietenkin keskustella myös politiikan substanssista, mutta jos nyt rehellisiä ollaan, niin asiakysymykset ovat tosi tylsiä. Ketä ne nyt kiinnostaa? Ei ketään. Joten keskustellaan tyylistä.
 
@@ -34,7 +34,7 @@ Siinä missä vasemmistolaisen pitää nykyään rikkoa näyteikkuna herättää
 
 Mutta miten tässä näin kävi? Missä mentiin pieleen? Lyhyesti sanottuna 1960-luvun vasemmisto ja Woodstock-väki voittivat. Kulttuuri on kuitenkin siitä mielenkiintoista, että se on jatkuvasti kykenevä adaptaatioon.
 
-<span class="indented">People try to put us d-down (Talkin' 'bout my generation)<br>
+<blockquote>People try to put us d-down (Talkin' 'bout my generation)<br>
 Just because we get around (Talkin' 'bout my generation)<br> 
 Things they do look awful c-c-cold (Talkin' 'bout my generation)<br> 
 I hope I die before I get old (Talkin' 'bout my generation) 
@@ -50,7 +50,7 @@ I'm just talkin' 'bout my g-g-g-generation (Talkin' 'bout my generation)
 This is my generation<br> 
 This is my generation, baby
 
-- The Who, My Generation</span>
+- The Who, My Generation</blockquote>
 
 1950-luvulla Elviksen lantiota ei saanut näyttää televisiossa. Tänä päivänä televisiossa ei saa näyttää rasistia. Progressiivisesta vasemmistosta on tullut aikamme hysteerinen perheäiti, joka vaatii moraalin ylläpitoa.
 
