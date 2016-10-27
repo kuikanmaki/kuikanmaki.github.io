@@ -11,7 +11,7 @@ tags: yhteiskunta politiikka
 
 <div class="post-image">
 <img src="{{ "/img/farage.jpg" | prepend: site.baseurl }}">
-*UKIP:n johtaja Nigel Farage juomassa IPA-olutta. Huomatkaa Faragen viileä olemus. Farage on cool.*
+<em>UKIP:n johtaja Nigel Farage juomassa IPA-olutta. Huomatkaa Faragen viileä olemus. Farage on cool.</em>
 </div>
 
 Vasemmiston pahin painajainen on käymässä toteen ympäri maailman. Ei, en puhu globaalin kapitalismin voitosta tai siitä että joku rikas henkilö, jossakin, on onnellinen - vaan siitä, että he eivät ole enää cool.
@@ -22,9 +22,9 @@ Tässä on varmasti paljon sulateltavaa.
 
 Mitä tarkoitan kun sanon cool?  
 
-"The sum and substance of cool is a self-conscious aplomb in overall behavior, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
+<i>"<b>The sum and substance of cool is a self-conscious aplomb in overall behavior</b>, which entails a set of specific behavioral characteristics that is firmly anchored in symbology, a set of discernible bodily movements, postures, facial expressions and voice modulations that are acquired and take on strategic social value within the peer context.
 
-Cool was once an attitude fostered by rebels and underdogs, such as slaves, prisoners, bikers and political dissidents, etc., for whom open rebellion invited punishment, so it hid defiance behind a wall of ironic detachment, distancing itself from the source of authority rather than directly confronting it."
+Cool was once an attitude fostered by rebels and underdogs, such as slaves, prisoners, bikers and political dissidents, etc., for whom open rebellion invited punishment, so it hid defiance behind a wall of ironic detachment, distancing itself from the source of authority rather than directly confronting it."</i>
 
 https://en.wikipedia.org/wiki/Cool_(aesthetic)
 
@@ -34,23 +34,23 @@ Siinä missä vasemmistolaisen pitää nykyään rikkoa näyteikkuna herättää
 
 Mutta miten tässä näin kävi? Missä mentiin pieleen? Lyhyesti sanottuna 1960-luvun vasemmisto ja Woodstock-väki voittivat. Kulttuuri on kuitenkin siitä mielenkiintoista, että se on jatkuvasti kykenevä adaptaatioon.
 
-People try to put us d-down (Talkin' 'bout my generation) 
-Just because we get around (Talkin' 'bout my generation) 
-Things they do look awful c-c-cold (Talkin' 'bout my generation) 
+People try to put us d-down (Talkin' 'bout my generation)<br>
+Just because we get around (Talkin' 'bout my generation)<br> 
+Things they do look awful c-c-cold (Talkin' 'bout my generation)<br> 
 I hope I die before I get old (Talkin' 'bout my generation) 
 
-This is my generation 
+This is my generation<br> 
 This is my generation, baby 
 
-Why don't you all f-fade away (Talkin' 'bout my generation) 
-And don't try to dig what we all s-s-say (Talkin' 'bout my generation) 
-I'm not trying to cause a big s-s-sensation (Talkin' 'bout my generation) 
+Why don't you all f-fade away (Talkin' 'bout my generation)<br>
+And don't try to dig what we all s-s-say (Talkin' 'bout my generation)<br>
+I'm not trying to cause a big s-s-sensation (Talkin' 'bout my generation)<br>
 I'm just talkin' 'bout my g-g-g-generation (Talkin' 'bout my generation) 
 
-This is my generation 
+This is my generation<br> 
 This is my generation, baby
 
-<a href="https://www.youtube.com/watch?v=F03a-EYvifU" target="_blank">- The Who, My Generation</a>
+- The Who, My Generation
 
 1950-luvulla Elviksen lantiota ei saanut näyttää televisiossa. Tänä päivänä televisiossa ei saa näyttää rasistia. Progressiivisesta vasemmistosta on tullut aikamme hysteerinen perheäiti, joka vaatii moraalin ylläpitoa.
 
