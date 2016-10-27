@@ -53,8 +53,8 @@ This is my generation, baby<br><br>
 
 - The Who, My Generation</blockquote>
 
-1950-luvulla Elviksen lantiota ei saanut näyttää televisiossa. Tänä päivänä televisiossa ei saa näyttää rasistia. Progressiivisesta vasemmistosta on tullut aikamme hysteerinen perheäiti, joka vaatii moraalin ylläpitoa.
+1950-luvulla <b>Elviksen</b> lantiota ei saanut näyttää televisiossa. Tänä päivänä televisiossa ei saa näyttää rasistia. Progressiivisesta vasemmistosta on tullut aikamme hysteerinen perheäiti, joka vaatii moraalin ylläpitoa.
 
-Tilanne on oikeistolle herkullinen. Eniten ilmiön kanssa on nauranut koko matkan pankkiin Donald Trump.
+Tilanne on oikeistolle herkullinen. Eniten ilmiön kanssa on nauranut koko matkan pankkiin <b>Donald Trump</b>.
 
 Mistä sitten tietää, onko itse pudonnut kyydistä? Melko varma merkki on, jos jatkuvasti hokee, että <a href="http://www.hs.fi/paakirjoitukset/a1477457259292" target="_blank">ei tajua mitä tapahtuu</a>. Lauseet kuten “En tajua Trumpia” tai “En tajua Brexitiä” ovat tunnusmerkkejä joita kannattaa tarkkailla, olkoonkin että kyse on sentään jo <a href="http://en.wikipedia.org/wiki/Four_stages_of_competence" target="_blank">tiedostetusta osaamisen puutteesta</a> - mikä on itsessään lupaavaa.
