@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Miksi Trump voittaa"
+author: "Jari Kuikanmäki"
+description: "...jos voittaa"
+image: "/img/farage.jpg"
+date:   2016-11-07 15:00
+location: Helsinki, Finland
+tags: yhdysvallat presidentinvaalit trump clinton politiikka yhteiskunta
+---
+
+<div class="post-image">
+<img src="{{ "/img/trumpclinton.jpg" | prepend: site.baseurl }}">
+</div>
+<em>Donald Trumpin ja Hillary Clintonin kisa ratkeaa tällä viikolla.</em>
+
+<p><a href="https://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA">Jari & Otto Show nyt YouTubessa.</a></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9WLCndrDS2U" frameborder="0" allowfullscreen></iframe>
+
+<p>Tässä lähetyksessä keskustelimme Otto Juotteen kanssa Yhdysvaltain presidentinvaaleista ja Trump-ilmiöstä. Mihin Trumpin suosio perustuu? Mikä on ollut median rooli näissä vaaleissa? Entä miten Trumpin ja Clintonin kisaa pitäisi ymmärtää laajemassa poliittisessa kontekstissa?<br><br>
+
+	Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuinka Clinton halusi rakentaa muurin, pommittaa journalisteja ja häiriköidä vastustajiensa poliittisia kampanjoita. Lisäksi käymme läpi, miksi koulutetut, hyvätuloiset ja hyvin lukeneet äänestävät Donald Trumpia. Kannattaa katsoa!</p>
+
+<p>Lähetyksessä mainittuja henkilöitä:
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Julian_Assange" target="_blank">Julian Assange</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Pat_Buchanan” target="_blank">Pat Buchanan</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Hillary_Clinton” target="_blank">Hillary Clinton</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Richard_Nixon” target="_blank">Richard Nixon</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Barack_Obama” target="_blank">Barack Obama</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Ronald_Reagan” target="_blank">Ronald Reagan</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Donald_Trump” target="_blank">Donald Trump</a></li>
+</ul>
+
+Lähetyksessä mainittuja käsitteitä: 
+
+<ul>
+  <li><a href="http://en.wikipedia.org/wiki/Alt-right” target="_blank">Alt-right</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Black_Lives_Matter” target="_blank">Black Lives Matter</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Clinton_Foundation” target="_blank">Clinton Foundation</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Culture_war” target="_blank">Culture war</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Ferguson_unrest” target="_blank">Ferguson</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Identity_politics” target="_blank">Identity politics</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Neoconservatism” target="_blank">Neoconservatism</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Overton_window” target="_blank">Overton window</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Political_correctness” target="_blank">Political Correctness</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Progressivism” target="_blank">Progressivism</a></li>
+  <li><a href="http://en.wikipedia.org/wiki/Wikileaks” target="_blank">Wikileaks</a></li>
+</ul>
+
+Lähetyksessä mainittuja kirjoja: 
+
+<ul>
+  <li><a href="http://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134” target="_blank">Saul Alinsky - Rules for Radicals: A Practical Primer for Realistic Radicals</a></li>
+  <li><a href="http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X” target="_blank">Robert Cialdini - Influence: The Psychology of Persuasion</a></li>
+  <li><a href="http://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777” target="_blank">Jonathan Haidt - Righteous Mind: Why Good People Are Divided by Politics and Religion</a></li>
+</ul></p>
