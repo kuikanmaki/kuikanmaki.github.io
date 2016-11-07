@@ -14,7 +14,7 @@ tags: yhdysvallat presidentinvaalit trump clinton
 </div>
 <em>Donald Trumpin ja Hillary Clintonin kisa ratkeaa tällä viikolla.</em>
 
-<p>Tässä lähetyksessä keskustelen <b>Otto Juotteen</b> kanssa Yhdysvaltain presidentinvaaleista ja Trump-ilmiöstä. Mihin Trumpin suosio perustuu? Mikä on ollut median rooli näissä vaaleissa? Entä miten Trumpin ja Clintonin kisaa pitäisi ymmärtää laajemassa poliittisessa kontekstissa?<br><br>
+<p>Tässä lähetyksessä keskustelen <b>Otto Juotteen</b> kanssa Yhdysvaltain presidentinvaaleista ja Trump-ilmiöstä. Mihin Trumpin suosio perustuu? Mikä on ollut median rooli näissä vaaleissa? Entä miten Trumpin ja Clintonin kisaa pitäisi ymmärtää laajemmassa poliittisessa kontekstissa?<br><br>
 
 Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuinka Clinton halusi rakentaa muurin, pommittaa journalisteja ja häiriköidä vastustajiensa poliittisia kampanjoita. Lisäksi käymme läpi Trumpin kommunikointityyliä ja mietimme miksi myös koulutetut, hyvätuloiset ja hyvin lukeneet äänestävät Trumpia. Kannattaa katsoa!<br><br>
 
