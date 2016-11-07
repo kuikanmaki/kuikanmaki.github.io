@@ -22,7 +22,7 @@ tags: yhdysvallat presidentinvaalit trump clinton politiikka yhteiskunta
 
 Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuinka Clinton halusi rakentaa muurin, pommittaa journalisteja ja häiriköidä vastustajiensa poliittisia kampanjoita. Lisäksi käymme läpi, miksi koulutetut, hyvätuloiset ja hyvin lukeneet äänestävät Donald Trumpia. Kannattaa katsoa!<br><br>
 
-Lähetyksessä mainittuja henkilöitä:<br><br>
+<b>Lähetyksessä mainittuja henkilöitä:</b><br><br>
 
 <a href="http://en.wikipedia.org/wiki/Julian_Assange" target="_blank">Julian Assange</a><br>
 <a href="http://en.wikipedia.org/wiki/Pat_Buchanan" target="_blank">Pat Buchanan</a><br>
@@ -30,9 +30,9 @@ Lähetyksessä mainittuja henkilöitä:<br><br>
 <a href="http://en.wikipedia.org/wiki/Richard_Nixon" target="_blank">Richard Nixon</a><br>
 <a href="http://en.wikipedia.org/wiki/Barack_Obama" target="_blank">Barack Obama</a><br>
 <a href="http://en.wikipedia.org/wiki/Ronald_Reagan" target="_blank">Ronald Reagan</a><br>
-<a href="http://en.wikipedia.org/wiki/Donald_Trump" target="_blank">Donald Trump</a><br>
+<a href="http://en.wikipedia.org/wiki/Donald_Trump" target="_blank">Donald Trump</a><br><br>
 
-Lähetyksessä mainittuja käsitteitä:<br><br>
+<b>Lähetyksessä mainittuja käsitteitä:</b><br><br>
 
 <a href="http://en.wikipedia.org/wiki/Alt-right" target="_blank">Alt-right</a><br>
 <a href="http://en.wikipedia.org/wiki/Black_Lives_Matter" target="_blank">Black Lives Matter</a><br>
@@ -44,9 +44,9 @@ Lähetyksessä mainittuja käsitteitä:<br><br>
 <a href="http://en.wikipedia.org/wiki/Overton_window" target="_blank">Overton window</a><br>
 <a href="http://en.wikipedia.org/wiki/Political_correctness" target="_blank">Political Correctness</a><br>
 <a href="http://en.wikipedia.org/wiki/Progressivism" target="_blank">Progressivism</a><br>
-<a href="http://en.wikipedia.org/wiki/Wikileaks" target="_blank">Wikileaks</a><br>
+<a href="http://en.wikipedia.org/wiki/Wikileaks" target="_blank">Wikileaks</a><br><br>
 
-Lähetyksessä mainittuja kirjoja:<br><br>
+<b>Lähetyksessä mainittuja kirjoja:</b><br><br>
 
 <a href="http://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134" target="_blank">Saul Alinsky - Rules for Radicals: A Practical Primer for Realistic Radicals</a><br>
 <a href="http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X" target="_blank">Robert Cialdini - Influence: The Psychology of Persuasion</a><br>
