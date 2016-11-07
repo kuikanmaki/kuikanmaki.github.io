@@ -2,7 +2,7 @@
 layout: post
 title:  "Miksi Trump voittaa"
 author: "Jari Kuikanmäki"
-description: "...jos voittaa"
+description: "...jos voittaa."
 image: "/img/farage.jpg"
 date:   2016-11-07 15:00
 location: Helsinki, Finland
