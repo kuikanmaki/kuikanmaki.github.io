@@ -42,7 +42,7 @@ Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuin
 <a href="http://en.wikipedia.org/wiki/Identity_politics" target="_blank">Identity politics</a><br>
 <a href="http://en.wikipedia.org/wiki/Neoconservatism" target="_blank">Neoconservatism</a><br>
 <a href="http://en.wikipedia.org/wiki/Overton_window" target="_blank">Overton window</a><br>
-<a href="http://en.wikipedia.org/wiki/Political_correctness" target="_blank">Political Correctness</a><br>
+<a href="http://en.wikipedia.org/wiki/Political_correctness" target="_blank">Political correctness</a><br>
 <a href="http://en.wikipedia.org/wiki/Progressivism" target="_blank">Progressivism</a><br>
 <a href="http://en.wikipedia.org/wiki/Wikileaks" target="_blank">Wikileaks</a><br><br>
 
