@@ -20,7 +20,7 @@ Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WLCndrDS2U" frameborder="0" allowfullscreen></iframe>
 
-<p><a href="https://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA">Jari & Otto Show -kanava YouTubessa.</a></p>
+<p><a href="https://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA" target="_blank">Jari & Otto Show -kanava YouTubessa.</a></p>
 
 <b>Lähetyksessä mainittuja henkilöitä:</b><br><br>
 
