@@ -3,10 +3,10 @@ layout: post
 title:  "Miksi Trump voittaa"
 author: "Jari Kuikanmäki"
 description: "...jos voittaa."
-image: "/img/farage.jpg"
-date:   2016-11-07 15:00
+image: "/img/trumpclinton.jpg"
+date:   2016-11-07 15:20
 location: Helsinki, Finland
-tags: yhdysvallat presidentinvaalit trump clinton politiikka yhteiskunta
+tags: yhdysvallat presidentinvaalit trump clinton
 ---
 
 <div class="post-image">
@@ -14,11 +14,11 @@ tags: yhdysvallat presidentinvaalit trump clinton politiikka yhteiskunta
 </div>
 <em>Donald Trumpin ja Hillary Clintonin kisa ratkeaa tällä viikolla.</em>
 
-<p><a href="https://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA">Jari & Otto Show nyt YouTubessa.</a></p>
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9WLCndrDS2U" frameborder="0" allowfullscreen></iframe>
 
-<p>Tässä lähetyksessä keskustelimme Otto Juotteen kanssa Yhdysvaltain presidentinvaaleista ja Trump-ilmiöstä. Mihin Trumpin suosio perustuu? Mikä on ollut median rooli näissä vaaleissa? Entä miten Trumpin ja Clintonin kisaa pitäisi ymmärtää laajemassa poliittisessa kontekstissa?<br><br>
+<p><a href="https://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA">Jari & Otto Show nyt YouTubessa.</a></p>
+
+<p>Tässä lähetyksessä keskustelen <b>Otto Juotteen</b> kanssa Yhdysvaltain presidentinvaaleista ja Trump-ilmiöstä. Mihin Trumpin suosio perustuu? Mikä on ollut median rooli näissä vaaleissa? Entä miten Trumpin ja Clintonin kisaa pitäisi ymmärtää laajemassa poliittisessa kontekstissa?<br><br>
 
 Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuinka Clinton halusi rakentaa muurin, pommittaa journalisteja ja häiriköidä vastustajiensa poliittisia kampanjoita. Lisäksi käymme läpi, miksi koulutetut, hyvätuloiset ja hyvin lukeneet äänestävät Donald Trumpia. Kannattaa katsoa!<br><br>
 
