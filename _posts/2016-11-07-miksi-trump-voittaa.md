@@ -22,38 +22,33 @@ tags: yhdysvallat presidentinvaalit trump clinton politiikka yhteiskunta
 
 Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuinka Clinton halusi rakentaa muurin, pommittaa journalisteja ja häiriköidä vastustajiensa poliittisia kampanjoita. Lisäksi käymme läpi, miksi koulutetut, hyvätuloiset ja hyvin lukeneet äänestävät Donald Trumpia. Kannattaa katsoa!<br><br>
 
-Lähetyksessä mainittuja henkilöitä:</p>
+Lähetyksessä mainittuja henkilöitä:<br><br>
 
-<ul>
-  <li><p><a href="http://en.wikipedia.org/wiki/Julian_Assange" target="_blank">Julian Assange</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Pat_Buchanan” target="_blank">Pat Buchanan</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Hillary_Clinton” target="_blank">Hillary Clinton</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Richard_Nixon” target="_blank">Richard Nixon</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Barack_Obama” target="_blank">Barack Obama</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Ronald_Reagan” target="_blank">Ronald Reagan</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Donald_Trump” target="_blank">Donald Trump</a></p></li>
-</ul>
+<a href="http://en.wikipedia.org/wiki/Julian_Assange" target="_blank">Julian Assange</a><br>
+<a href="http://en.wikipedia.org/wiki/Pat_Buchanan" target="_blank">Pat Buchanan</a><br>
+<a href="http://en.wikipedia.org/wiki/Hillary_Clinton" target="_blank">Hillary Clinton</a><br>
+<a href="http://en.wikipedia.org/wiki/Richard_Nixon" target="_blank">Richard Nixon</a><br>
+<a href="http://en.wikipedia.org/wiki/Barack_Obama" target="_blank">Barack Obama</a><br>
+<a href="http://en.wikipedia.org/wiki/Ronald_Reagan" target="_blank">Ronald Reagan</a><br>
+<a href="http://en.wikipedia.org/wiki/Donald_Trump" target="_blank">Donald Trump</a><br>
 
-<p>Lähetyksessä mainittuja käsitteitä:</p> 
+Lähetyksessä mainittuja käsitteitä:<br><br>
 
-<ul>
-  <li><p><a href="http://en.wikipedia.org/wiki/Alt-right” target="_blank">Alt-right</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Black_Lives_Matter” target="_blank">Black Lives Matter</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Clinton_Foundation” target="_blank">Clinton Foundation</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Culture_war” target="_blank">Culture war</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Ferguson_unrest” target="_blank">Ferguson</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Identity_politics” target="_blank">Identity politics</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Neoconservatism” target="_blank">Neoconservatism</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Overton_window” target="_blank">Overton window</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Political_correctness” target="_blank">Political Correctness</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Progressivism” target="_blank">Progressivism</a></p></li>
-  <li><p><a href="http://en.wikipedia.org/wiki/Wikileaks” target="_blank">Wikileaks</a></p></li>
-</ul>
+<a href="http://en.wikipedia.org/wiki/Alt-right" target="_blank">Alt-right</a><br>
+<a href="http://en.wikipedia.org/wiki/Black_Lives_Matter" target="_blank">Black Lives Matter</a><br>
+<a href="http://en.wikipedia.org/wiki/Clinton_Foundation" target="_blank">Clinton Foundation</a><br>
+<a href="http://en.wikipedia.org/wiki/Culture_war" target="_blank">Culture war</a><br>
+<a href="http://en.wikipedia.org/wiki/Ferguson_unrest" target="_blank">Ferguson</a><br>
+<a href="http://en.wikipedia.org/wiki/Identity_politics" target="_blank">Identity politics</a><br>
+<a href="http://en.wikipedia.org/wiki/Neoconservatism" target="_blank">Neoconservatism</a><br>
+<a href="http://en.wikipedia.org/wiki/Overton_window" target="_blank">Overton window</a><br>
+<a href="http://en.wikipedia.org/wiki/Political_correctness" target="_blank">Political Correctness</a><br>
+<a href="http://en.wikipedia.org/wiki/Progressivism" target="_blank">Progressivism</a><br>
+<a href="http://en.wikipedia.org/wiki/Wikileaks" target="_blank">Wikileaks</a><br>
 
-<p>Lähetyksessä mainittuja kirjoja:</p>
+Lähetyksessä mainittuja kirjoja:<br><br>
 
-<ul>
-  <li><p><a href="http://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134” target="_blank">Saul Alinsky - Rules for Radicals: A Practical Primer for Realistic Radicals</a></p></li>
-  <li><p><a href="http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X” target="_blank">Robert Cialdini - Influence: The Psychology of Persuasion</a></p></li>
-  <li></p><a href="http://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777” target="_blank">Jonathan Haidt - Righteous Mind: Why Good People Are Divided by Politics and Religion</a></p></li>
-</ul></p>
+<a href="http://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134" target="_blank">Saul Alinsky - Rules for Radicals: A Practical Primer for Realistic Radicals</a><br>
+<a href="http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X" target="_blank">Robert Cialdini - Influence: The Psychology of Persuasion</a><br>
+<a href="http://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777" target="_blank">Jonathan Haidt - Righteous Mind: Why Good People Are Divided by Politics and Religion</a><br>
+</p>
