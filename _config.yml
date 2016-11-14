@@ -6,11 +6,12 @@ description: "Blogi"
 baseurl: ""
 url: "https://kuikanmaki.github.io"
 twitter:
-  username: jarikuikanmaki
+username: jarikuikanmaki
 
 # Build settings
 markdown: kramdown
 permalink: pretty
+future: true
 
 # Pagination
 paginate: 5
