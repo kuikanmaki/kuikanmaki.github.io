@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yhdysvaltain presidentinvaalit - Mitä helvettiä juuri tapahtui?"
+title:  "Testing"
 author: "Jari Kuikanmäki"
 description: "Kuinka Trump voitti? Entä kuinka vaaliennusteemme osuivat? (Hyvin). Analysoimme Yhdysvaltain presidentinvaaleja."
 image: "/img/trumpwins.jpg"
