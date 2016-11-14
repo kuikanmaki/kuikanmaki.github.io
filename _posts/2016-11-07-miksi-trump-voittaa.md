@@ -46,7 +46,7 @@ Tämä ei ole tyypillinen tylsä vaalianalyysi. Lähetyksessä kerromme mm. kuin
 <a href="http://en.wikipedia.org/wiki/Progressivism" target="_blank">Progressivism</a><br>
 <a href="http://en.wikipedia.org/wiki/Wikileaks" target="_blank">Wikileaks</a><br><br>
 
-<b>Lähetyksessä mainittuja kirjoja:</b><br><br>
+<b>Lähetyksessä mainittuja kirjoja;</b><br><br>
 
 <a href="http://www.amazon.com/Rules-Radicals-Practical-Primer-Realistic/dp/0679721134" target="_blank">Saul Alinsky - Rules for Radicals: A Practical Primer for Realistic Radicals</a><br>
 <a href="http://www.amazon.com/Influence-Psychology-Persuasion-Robert-Cialdini/dp/006124189X" target="_blank">Robert Cialdini - Influence: The Psychology of Persuasion</a><br>
