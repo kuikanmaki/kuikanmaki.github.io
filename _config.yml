@@ -12,6 +12,7 @@ username: jarikuikanmaki
 markdown: kramdown
 permalink: pretty
 future: true
+timezone: Europe/Helsinki
 
 # Pagination
 paginate: 5
