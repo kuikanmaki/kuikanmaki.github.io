@@ -4,7 +4,7 @@ subtitle: "Kirjoituksia"
 email: jari.kuikanmaki@gmail.com
 description: "Blogi"
 baseurl: ""
-url: "http://kuikanmaki.github.io"
+url: "https://kuikanmaki.github.io"
 twitter:
 username: jarikuikanmaki
 
@@ -13,7 +13,6 @@ markdown: kramdown
 permalink: pretty
 future: true
 timezone: Europe/Helsinki
-encoding: UTF-8
 
 # Pagination
 paginate: 5
