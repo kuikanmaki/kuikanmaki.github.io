@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Testing"
+title:  "Miksi Trump voittaa"
 author: "Jari Kuikanmäki"
-description: "Kuinka Trump voitti? Entä kuinka vaaliennusteemme osuivat? (Hyvin). Analysoimme Yhdysvaltain presidentinvaaleja."
-image: "/img/trumpwins.jpg"
-date:   2016-11-14 12:30
+description: "...jos voittaa."
+image: "/img/trumpclinton.jpg"
+date:   2016-11-08 15:20
 location: Helsinki, Finland
 tags: yhdysvallat presidentinvaalit trump clinton
 ---
