@@ -4,7 +4,7 @@ title:  "Yhdysvaltain presidentinvaalit - Mitä helvettiä juuri tapahtui?"
 author: "Jari Kuikanmäki"
 description: "Kuinka Trump voitti? Entä kuinka vaaliennusteemme osuivat? (Hyvin). Analysoimme Yhdysvaltain presidentinvaaleja."
 image: "/img/trumpwins.jpg"
-date:   2016-11-14 13:00
+date:   2016-11-14 13:15
 location: Helsinki, Finland
 tags: yhdysvallat presidentinvaalit trump clinton
 ---
@@ -16,7 +16,7 @@ tags: yhdysvallat presidentinvaalit trump clinton
 
 <p>Kuinka Jari & Otto Shown vaaliennusteet osuivat? (Hyvin.) Miksi media oli niin pihalla näissä vaaleissa? Jos Trumpin voitto olisi elokuva, mikä elokuva se olisi? Entä mikä oli epävirallisten kampanjaorganisaatioiden rooli Trumpin voitossa?<br><br>Näihin ja muihin päivänpolttaviin kysymyksiin vastauksen antaa Jari & Otto Shown uusin jakso: “Yhdysvaltain presidentinvaalit - Mitä helvettiä juuri tapahtui?”. Vain YouTubessa. Katso nyt!<br><br>
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/KRMrZPlkl-k" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRMrZPlkl-k" frameborder="0" allowfullscreen></iframe>
 
 <p><a href="http://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA" target="_blank">Jari & Otto Show -kanava YouTubessa.</a></p>
 
