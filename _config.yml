@@ -5,8 +5,7 @@ email: jari.kuikanmaki@gmail.com
 description: "Blogi"
 baseurl: ""
 url: "https://kuikanmaki.github.io"
-twitter:
-username: jarikuikanmaki
+twitter_username: "jarikuikanmaki"
 
 # Build settings
 markdown: kramdown
