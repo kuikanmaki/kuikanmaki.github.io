@@ -13,6 +13,15 @@ permalink: pretty
 future: true
 timezone: Europe/Helsinki
 
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
+
 # Pagination
 paginate: 5
 

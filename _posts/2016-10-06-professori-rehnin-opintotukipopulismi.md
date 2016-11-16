@@ -1,6 +1,5 @@
 ---
 layout: post
-type: posts
 title:  "Professori Rehnin opintotukipopulismi"
 author: "Jari Kuikanmäki"
 description: "Demagogi, kuten H.L. Mencken sanoi, on henkilö joka julistaa doktriineja joiden tietää olevan epätosia, ihmisille joiden tietää olevan idiootteja. Mutta sitten on vielä yliopistoprofessorit."
