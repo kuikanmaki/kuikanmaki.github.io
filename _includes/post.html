@@ -5,7 +5,7 @@
     </div>
     <div class="post-body">
         {{ include.content }}
-        {% if page.type == "post" %}
+        {% if page.is_post %}
         {% include share.html %}
         {% endif %}
     </div>    
