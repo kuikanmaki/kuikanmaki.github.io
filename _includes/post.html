@@ -5,7 +5,9 @@
     </div>
     <div class="post-body">
         {{ include.content }}
+        {% if page.type == "post" %}
         {% include share.html %}
+        {% endif %}
     </div>    
     <div class="post-footer">
         <ul class="post-footer-tags">
