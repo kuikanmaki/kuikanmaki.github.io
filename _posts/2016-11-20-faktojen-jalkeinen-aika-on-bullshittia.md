@@ -42,7 +42,7 @@ tags: media sananvapaus demokratia populismi
 <a href="http://en.wikipedia.org/wiki/Hegemony" target="_blank">Hegemony</a><br>
 <a href="http://en.wikipedia.org/wiki/Classical_liberalism" target="_blank">Classical liberalism</a><br>
 <a href="http://en.wikipedia.org/wiki/Populism" target="_blank">Populism</a><br>
-<a href="http://twitter.com/Paternalism" target="_blank">Paternalism</a><br>
+<a href="http://en.wikipedia.org/Paternalism" target="_blank">Paternalism</a><br>
 <a href="http://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank">Freedom of speech</a><br>
 <a href="http://en.wikipedia.org/wiki/Stealth_banning" target="_blank">Shadow banning</a><br>
 <a href="http://en.wikipedia.org/wiki/Social_media" target="_blank">Social media</a><br>
