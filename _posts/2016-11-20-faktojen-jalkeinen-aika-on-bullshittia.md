@@ -31,6 +31,7 @@ tags: media sananvapaus demokratia populismi
 <a href="http://en.wikipedia.org/wiki/George_Orwell" target="_blank">George Orwell</a><br>
 <a href="http://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a><br> 
 <a href="http://en.wikipedia.org/wiki/Richard_B._Spencer" target="_blank">Richard B. Spencer</a><br> 
+<a href="http://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb" target="_blank">Nassim Taleb</a><br><br> 
 <a href="http://en.wikipedia.org/wiki/Milo_Yiannopoulos" target="_blank">Milo Yiannopoulos</a><br><br> 
 
 <b>Lähetyksessä mainittuja käsitteitä:</b><br><br>
