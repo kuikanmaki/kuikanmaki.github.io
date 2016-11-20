@@ -52,6 +52,6 @@ tags: media sananvapaus demokratia populismi
 
 <b>Lähetyksessä mainittuja kirjoja:</b><br><br>
 
-<a href="http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf" target="_blank">Harry Frankfurt - On Bullshit</a><br><br>
+<a href="http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf" target="_blank">Harry Frankfurt - On Bullshit</a>
 
 </p>
