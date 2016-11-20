@@ -19,6 +19,20 @@ tags: media sananvapaus demokratia populismi
 
 <p><a href="http://www.youtube.com/channel/UCHOTEl3XEzqv3VuLr20cyOA" target="_blank">Jari & Otto Show -kanava YouTubessa.</a></p>
 
+<b>Lähetyksessä mainittuja henkilöitä:</b><br><br>
+
+<a href="http://en.wikipedia.org/wiki/Aristoteles" target="_blank">Aristoteles</a><br>
+<a href="http://en.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor Adorno</a><br>
+<a href="http://en.wikipedia.org/wiki/Michel_Foucault" target="_blank">Michel Foucault</a><br>
+<a href="http://en.wikipedia.org/wiki/Antonio_Gramsci" target="_blank">Antonio Gramsci</a><br>
+<a href="http://en.wikipedia.org/wiki/Johannes_Gutenberg" target="_blank">Johannes Gutenberg</a><br>
+<a href="http://en.wikipedia.org/wiki/Max_Horkheimer" target="_blank">Max Horkheimer</a><br>
+<a href="http://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a><br> 
+<a href="http://en.wikipedia.org/wiki/George_Orwell" target="_blank">George Orwell</a><br>
+<a href="http://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a><br> 
+<a href="http://en.wikipedia.org/wiki/Richard_B._Spencer" target="_blank">Richard B. Spencer</a><br> 
+<a href="http://en.wikipedia.org/wiki/Milo_Yiannopoulos" target="_blank">Milo Yiannopoulos</a><br> 
+
 <b>Lähetyksessä mainittuja käsitteitä:</b><br><br>
 
 <a href="http://en.wikipedia.org/wiki/Democracy" target="_blank">Democracy</a><br>
@@ -39,19 +53,5 @@ tags: media sananvapaus demokratia populismi
 <b>Lähetyksessä mainittuja kirjoja:</b><br><br>
 
 <a href="http://www.stoa.org.uk/topics/bullshit/pdf/on-bullshit.pdf" target="_blank">Harry Frankfurt - On Bullshit</a><br><br>
-
-<b>Lähetyksessä mainittuja henkilöitä:</b><br><br>
-
-<a href="http://en.wikipedia.org/wiki/Aristoteles" target="_blank">Aristoteles</a><br>
-<a href="http://en.wikipedia.org/wiki/Theodor_Adorno" target="_blank">Theodor Adorno</a><br>
-<a href="http://en.wikipedia.org/wiki/Michel_Foucault" target="_blank">Michel Foucault</a><br>
-<a href="http://en.wikipedia.org/wiki/Antonio_Gramsci" target="_blank">Antonio Gramsci</a><br>
-<a href="http://en.wikipedia.org/wiki/Johannes_Gutenberg" target="_blank">Johannes Gutenberg</a><br>
-<a href="http://en.wikipedia.org/wiki/Max_Horkheimer" target="_blank">Max Horkheimer</a><br>
-<a href="http://en.wikipedia.org/wiki/Friedrich_Nietzsche" target="_blank">Friedrich Nietzsche</a><br> 
-<a href="http://en.wikipedia.org/wiki/George_Orwell" target="_blank">George Orwell</a><br>
-<a href="http://en.wikipedia.org/wiki/Arthur_Schopenhauer" target="_blank">Arthur Schopenhauer</a><br> 
-<a href="http://en.wikipedia.org/wiki/Richard_B._Spencer" target="_blank">Richard B. Spencer</a><br> 
-<a href="http://en.wikipedia.org/wiki/Milo_Yiannopoulos" target="_blank">Milo Yiannopoulos</a><br> 
 
 </p>
