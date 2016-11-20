@@ -35,15 +35,15 @@ tags: media sananvapaus demokratia populismi
 
 <b>Lähetyksessä mainittuja käsitteitä:</b><br><br>
 
+<a href="http://en.wikipedia.org/wiki/Classical_liberalism" target="_blank">Classical liberalism</a><br>
 <a href="http://en.wikipedia.org/wiki/Democracy" target="_blank">Democracy</a><br>
 <a href="http://en.wikipedia.org/wiki/Echo_chamber_(media)" target="_blank">Echo chamber</a><br>
 <a href="http://en.wikipedia.org/wiki/Age_of_Enlightenment" target="_blank">Enlightenment</a><br>
 <a href="http://en.wikipedia.org/wiki/Democracy" target="_blank">Facebook</a><br>
+<a href="http://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank">Freedom of speech</a><br>
 <a href="http://en.wikipedia.org/wiki/Hegemony" target="_blank">Hegemony</a><br>
-<a href="http://en.wikipedia.org/wiki/Classical_liberalism" target="_blank">Classical liberalism</a><br>
 <a href="http://en.wikipedia.org/wiki/Populism" target="_blank">Populism</a><br>
 <a href="http://en.wikipedia.org/wiki/Paternalism" target="_blank">Paternalism</a><br>
-<a href="http://en.wikipedia.org/wiki/Freedom_of_speech" target="_blank">Freedom of speech</a><br>
 <a href="http://en.wikipedia.org/wiki/Stealth_banning" target="_blank">Shadow banning</a><br>
 <a href="http://en.wikipedia.org/wiki/Social_media" target="_blank">Social media</a><br>
 <a href="http://en.wikipedia.org/wiki/Subject_(philosophy)" target="_blank">Subject (philosophy)</a><br>
