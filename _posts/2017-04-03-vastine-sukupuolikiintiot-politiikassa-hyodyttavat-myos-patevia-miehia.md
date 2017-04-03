@@ -14,7 +14,7 @@ tags: politiikka meritokratia sukupuolikiintiöt
 </div>
 <em>Helsingin Sanomat uutisoi LSE:ssa julkaistavasta tutkimuksesta, jonka mukaan sukupuolikiintiöt hyödyttäisivät päteviä miehiä.</em>
 
-Helsingin Sanomat julkaisi joku päivä sitten kirjoituksen otsikolla <a href="http://www.hs.fi/politiikka/art-2000005147704.html/" target="_blank">"Naisten asemaa parantavat sukupuolikiintiöt hyödyttävät myös päteviä miehiä"</a> (HS Politiikka 29.3.2017). Kirjoitus perustui London School of Economicsissa tehtyyn <a href="http://blogs.lse.ac.uk/businessreview/2017/03/13/gender-quotas-and-the-crisis-of-the-mediocre-man/" target="_blank">tutkimukseen</a>, jossa oli tutkittu sukupuolikiintiöiden vaikutusta Ruotsin kunnallisvaaleissa.
+Helsingin Sanomat julkaisi joku päivä sitten kirjoituksen otsikolla <a href="http://www.hs.fi/politiikka/art-2000005147704.html" target="_blank">"Naisten asemaa parantavat sukupuolikiintiöt hyödyttävät myös päteviä miehiä"</a> (HS Politiikka 29.3.2017). Kirjoitus perustui London School of Economicsissa tehtyyn <a href="http://blogs.lse.ac.uk/businessreview/2017/03/13/gender-quotas-and-the-crisis-of-the-mediocre-man" target="_blank">tutkimukseen</a>, jossa oli tutkittu sukupuolikiintiöiden vaikutusta Ruotsin kunnallisvaaleissa.
 
 Artikkelin mukaan sukupuolikiintiöiden käyttö lisäsi päättäjien pätevyyttä, ja että “kiintiöillä on mahdollisuus lopettaa keskinkertaisen eliitin valtakausi”. Väite on vähintäänkin huikea, ja mikäli se on totta se olisi hyvin merkittävä, koska tutkimus voisi kumota useita sukupuolikiintiöiden käyttöön liitettyjä väitteitä, kuten sen, että ne syrjivät pätevämpiä hakijoita - tai pätevämpiä poliittisia kandidaatteja - sukupuolen perusteella.
 
@@ -74,6 +74,6 @@ Tiedemiehen tulisi aina pyrkiä ensisijaisesti totuuteen, ja tutkijat jotka tark
 
 Lähteet:
 
-<a href="http://www.hs.fi/politiikka/art-2000005147704.html/" target="_blank">HS Politiikka - Naisten asemaa parantavat sukupuolikiintiöt hyödyttävät myös päteviä miehiä – Tutkijat: ”Kiintiöillä on mahdollisuus lopettaa keskinkertaisen eliitin valtakausi”</a>
+<a href="http://www.hs.fi/politiikka/art-2000005147704.html" target="_blank">HS Politiikka - Naisten asemaa parantavat sukupuolikiintiöt hyödyttävät myös päteviä miehiä – Tutkijat: ”Kiintiöillä on mahdollisuus lopettaa keskinkertaisen eliitin valtakausi”</a>
 
-<a href="http://blogs.lse.ac.uk/businessreview/2017/03/13/gender-quotas-and-the-crisis-of-the-mediocre-man/" target="_blank">LSE Business Review - Gender quotas and the crisis of the mediocre man</a>
+<a href="http://blogs.lse.ac.uk/businessreview/2017/03/13/gender-quotas-and-the-crisis-of-the-mediocre-man" target="_blank">LSE Business Review - Gender quotas and the crisis of the mediocre man</a>
