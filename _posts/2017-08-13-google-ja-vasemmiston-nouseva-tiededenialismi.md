@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Google ja vasemmiston nouseva tiededenialismi"
+title:  "Test"
 author: "Jari Kuikanmäki"
-description: "Miten teknologiayhtiö Googlesta tuli tiedevastainen, ja mitä irtisanotun James Damoren kohtalosta pitäisi oikein ajatella?"
+description: "Test"
 image: "/img/googleantiad.jpg"
 date:   2017-08-13 20:25
 location: Helsinki, Finland
