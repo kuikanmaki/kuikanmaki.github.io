@@ -4,7 +4,7 @@ title:  "Google ja vasemmiston nouseva tiededenialismi"
 author: "Jari Kuikanmäki"
 description: "Miten teknologiayhtiö Googlesta tuli tiedevastainen ja mitä irtisanotun James Damoren kohtalosta pitäisi oikein ajatella?"
 image: "/img/googleantiad.jpg"
-date:   2017-08-13 20:25
+date:   2017-08-13 22:00
 location: Helsinki, Finland
 tags: google evoluutiopsykologia tiede
 ---
