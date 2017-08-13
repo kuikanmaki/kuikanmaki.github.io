@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Test"
+title:  "Google ja vasemmiston nouseva tiededenialismi"
 author: "Jari Kuikanmäki"
 description: "Miten teknologiayhtiö Googlesta tuli tiedevastainen ja mitä irtisanotun James Damoren kohtalosta pitäisi oikein ajatella?"
 image: "/img/googleantiad.jpg"
-date:   2017-08-13 22:00
+date:   2017-08-13 22:30
 location: Helsinki, Finland
 tags: google evoluutiopsykologia tiede
 ---
@@ -61,9 +61,11 @@ Peterson ei ole näkemyksineen yksin. Viikon aikana joukko tutkijoita ja profess
 
 Myös Harvardin psykologian professori <b>Steven Pinker</b> otti asiaan kantaa Twitterissä, jakaen mm. <b>New York Timesissa</b> julkaistun kirjoituksen, jossa kehotettiin jo Pichaita astumaan alas toimitusjohtajan tehtävistä:
 
-{% tweet http://twitter.com/sapinker/status/895607896079122433 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">When Google silences dissent, it bodes poorly for the rest of us <a href="https://t.co/bXlRdvR2dk">https://t.co/bXlRdvR2dk</a> via <a href="https://twitter.com/BostonGlobe">@BostonGlobe</a></p>&mdash; Steven Pinker (@sapinker) <a href="https://twitter.com/sapinker/status/895607896079122433">August 10, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-{% tweet http://twitter.com/sapinker/status/896013027476156417 %}
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excellent analysis of the Google affair &amp; its larger implications by David Brooks.  <a href="https://t.co/pK0JXgaCHV">https://t.co/pK0JXgaCHV</a></p>&mdash; Steven Pinker (@sapinker) <a href="https://twitter.com/sapinker/status/896013027476156417">August 11, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 --
 
