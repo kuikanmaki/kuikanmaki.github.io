@@ -22,7 +22,7 @@ kirjoitti <a href="http://www.recode.net/2017/8/7/16110696/firing-google-ceo-emp
 
 Internet reagoi nopeasti, kuten odottaa saattaa:
 
-http://twitter.com/Chet_Cannon/status/894953916235792384
+{% tweet http://twitter.com/Chet_Cannon/status/894953916235792384 %}
 
 --
 
@@ -60,9 +60,9 @@ Peterson ei ole näkemyksineen yksin. Viikon aikana joukko tutkijoita ja profess
 
 Myös Harvardin psykologian professori <b>Steven Pinker</b> otti asiaan kantaa Twitterissä, jakaen mm. <b>New York Timesissa</b> julkaistun kirjoituksen, jossa kehotettiin jo Pichaita astumaan alas toimitusjohtajan tehtävistä:
 
-http://twitter.com/sapinker/status/895607896079122433
+{% tweet http://twitter.com/sapinker/status/895607896079122433 %}
 
-http://twitter.com/sapinker/status/896013027476156417
+{% tweet http://twitter.com/sapinker/status/896013027476156417 %}
 
 --
 
