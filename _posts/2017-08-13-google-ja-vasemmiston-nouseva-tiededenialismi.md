@@ -22,6 +22,9 @@ kirjoitti <a href="http://www.recode.net/2017/8/7/16110696/firing-google-ceo-emp
 
 Internet reagoi nopeasti, kuten odottaa saattaa:
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Google in one gif <a href="https://t.co/yKgs4PNNYP">pic.twitter.com/yKgs4PNNYP</a></p>&mdash; Chet Cannon (@Chet_Cannon) <a href="https://twitter.com/Chet_Cannon/status/894953916235792384">August 8, 2017</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 {% tweet http://twitter.com/Chet_Cannon/status/894953916235792384 %}
 
 --
