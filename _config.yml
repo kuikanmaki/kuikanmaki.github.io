@@ -1,0 +1,45 @@
+# Site settings
+title: Jari Kuikanmäki
+subtitle: "Kirjoituksia"
+email: jari.kuikanmaki@gmail.com
+description: "Blogi"
+baseurl: ""
+url: "https://kuikanmaki.github.io"
+twitter:
+  username: jarikuikanmaki
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+future: true
+timezone: Europe/Helsinki
+
+# Front matter defaults
+defaults:
+  -
+    scope:
+      path: ""      # empty string for all files
+      type: posts   # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
+
+# Pagination
+paginate: 5
+
+# Sass
+sass:
+    style: :compressed
+
+# Gems
+gems:
+    - jekyll-paginate
+    - jekyll-seo-tag
+
+# Google services
+google_analytics: UA-61093128-1
+
+#Facebook Sharing
+facebook_app_id: 1798370233778304
+
+#Exclude vendor
+exclude: [vendor]
