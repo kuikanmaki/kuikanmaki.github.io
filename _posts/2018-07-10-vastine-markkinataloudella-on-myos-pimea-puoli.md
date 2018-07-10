@@ -14,7 +14,7 @@ tags: markkinatalous politiikka taloustiede yhteiskuntafilosofia
 </div>
 <em>Kuva: Itäsaksalaisia matkalla osallisuustaloudesta länteen ja markkinatalouden pimeälle puolelle vuonna 1989.</em>
 
-<b>Joona Hermanni Mäkinen</b> (<a href="http://twitter.com/joonahermanni" target="_blank">@joonahermanni</a>) kirjoitti Ylelle kolumnin <a href="http://yle.fi/uutiset/3-10289725" target="_blank">“Markkinataloudella on myös pimeä puoli”</a>. Hän esitti kolumnissaan joukon väitteitä markkinataloudesta, joihin esitän vastineen.
+<b>Joona-Hermanni Mäkinen</b> (<a href="http://twitter.com/joonahermanni" target="_blank">@joonahermanni</a>) kirjoitti Ylelle kolumnin <a href="http://yle.fi/uutiset/3-10289725" target="_blank">“Markkinataloudella on myös pimeä puoli”</a>. Hän esitti kolumnissaan joukon väitteitä markkinataloudesta, joihin esitän vastineen.
 
 -
 
