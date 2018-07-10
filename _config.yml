@@ -38,12 +38,6 @@ gems:
 # Google services
 google_analytics: UA-61093128-1
 
-#Facebook Sharing
-<<<<<<< HEAD
-facebook_app_id: 1798370233778304
-
 #Exclude vendor
 exclude: [vendor]
-=======
 facebook_app_id: 1798370233778304
->>>>>>> 8383cbd5ff993fa6b2c27d677f90383483551bc7
