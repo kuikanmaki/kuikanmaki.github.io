@@ -4,7 +4,7 @@ title:  "Vastine: Markkinataloudella on myös pimeä puoli"
 author: "Jari Kuikanmäki"
 description: "Johtuvatko maailman pahat asiat markkinataloudesta?"
 image: "/img/berlin1989.jpg"
-date:   2019-07-10 17:25
+date:   2018-07-10 17:25
 location: Helsinki, Finland
 tags: markkinatalous politiikka taloustiede yhteiskuntafilosofia
 ---
