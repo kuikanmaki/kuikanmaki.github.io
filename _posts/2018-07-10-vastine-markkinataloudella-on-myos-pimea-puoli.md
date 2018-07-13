@@ -99,3 +99,11 @@ Markkinataloudesta voidaan tietenkin etsiä, ja löytääkin, pimeitä puolia, k
 -
 
 Kiitokset <a href="http://twitter.com/thomastaussi" target="_blank">@thomastaussi</a> kommenteista ja huomioista tähän tekstiin.
+
+-
+
+<i>Lisätty, 13.7.2018:</i>
+
+Tässä Joona-Hermanni Mäkisen vastine vastineeseeni:
+
+<a href="http://www.osallisuustalous.fi/blogi/2018/7/keskustelua-markkinataloudesta-mkisen-vastaus-kuikanmelle" target="_blank">Keskustelua markkinataloudesta: Mäkisen vastaus Kuikanmäelle</a>
