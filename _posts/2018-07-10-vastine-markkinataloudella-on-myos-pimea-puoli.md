@@ -102,8 +102,8 @@ Kiitokset <a href="http://twitter.com/thomastaussi" target="_blank">@thomastauss
 
 -
 
-<i>Lisätty, 13.7.2018:</i>
+<i>Lisäys 13.7.2018:</i>
 
-Tässä Joona-Hermanni Mäkisen vastine vastineeseeni:
+Joona-Hermanni Mäkisen vastine: <a href="http://www.osallisuustalous.fi/blogi/2018/7/keskustelua-markkinataloudesta-mkisen-vastaus-kuikanmelle" target="_blank">Keskustelua markkinataloudesta: Mäkisen vastaus Kuikanmäelle</a>
 
-<a href="http://www.osallisuustalous.fi/blogi/2018/7/keskustelua-markkinataloudesta-mkisen-vastaus-kuikanmelle" target="_blank">Keskustelua markkinataloudesta: Mäkisen vastaus Kuikanmäelle</a>
+Keskustelu jatkunee Twitterin puolella.
